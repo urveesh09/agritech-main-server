@@ -1,0 +1,6 @@
+express
+http
+socket.io
+axios
+cors
+mysql2
